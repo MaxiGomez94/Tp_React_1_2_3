@@ -1,13 +1,17 @@
 import 'bootstrap/dist/css/bootstrap.css';
 import './App.css'
 import Footer from './components/Footer';
+import HelloWordl from './components/HelloWordl';
 
 
 const App =()=> {
   return (
     <>
-    <main></main>
+    <main className='container mt-4'>
+      <HelloWordl></HelloWordl>
+    </main>
     <Footer></Footer>
+  
     </>
   )
 }
