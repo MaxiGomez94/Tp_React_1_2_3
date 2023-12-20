@@ -1,4 +1,4 @@
- Primer Trabajo Practico De React  donde se realiza 3 puntos del trabajo en este repositorio
+ Primer Trabajo Practico De React  donde se realiza 3 puntos del trabajo en este repositorios
 
 
 Hello world - Dificultad:  🟢
