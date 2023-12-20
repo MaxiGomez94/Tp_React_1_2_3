@@ -8,7 +8,7 @@ const App =()=> {
   return (
     <>
     <main className='container mt-4'>
-      <HelloWordl></HelloWordl>
+      <HelloWordl myFriend='Hello My Friend!!'></HelloWordl>
     </main>
     <Footer></Footer>
   
